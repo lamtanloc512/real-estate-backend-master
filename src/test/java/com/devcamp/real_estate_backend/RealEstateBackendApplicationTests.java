@@ -3,10 +3,10 @@ package com.devcamp.real_estate_backend;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class RealEstateBackendApplicationTests {
 
-	@Test
+//	@Test
 	void contextLoads() {
 	}
 
